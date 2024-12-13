@@ -1,1 +1,401 @@
-[{"id":"1","name":"Genesis","chapters":"50","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/genesis/chapters/"},{"id":"2","name":"Exodus","chapters":"40","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/exodus/chapters/"},{"id":"3","name":"Leviticus","chapters":"27","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/leviticus/chapters/"},{"id":"4","name":"Numbers","chapters":"36","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/numbers/chapters/"},{"id":"5","name":"Deuteronomy","chapters":"34","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/deuteronomy/chapters/"},{"id":"6","name":"Joshua","chapters":"24","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/joshua/chapters/"},{"id":"7","name":"Judges","chapters":"21","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/judges/chapters/"},{"id":"8","name":"Ruth","chapters":"4","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/ruth/chapters/"},{"id":"9","name":"1 Samuel","chapters":"31","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/1samuel/chapters/"},{"id":"10","name":"2 Samuel","chapters":"24","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/2samuel/chapters/"},{"id":"11","name":"1 Kings","chapters":"22","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/1kings/chapters/"},{"id":"12","name":"2 Kings","chapters":"25","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/2kings/chapters/"},{"id":"13","name":"1 Chronicles","chapters":"29","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/1chronicles/chapters/"},{"id":"14","name":"2 Chronicles","chapters":"36","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/2chronicles/chapters/"},{"id":"15","name":"Ezra","chapters":"10","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/ezra/chapters/"},{"id":"16","name":"Nehemiah","chapters":"13","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/nehemiah/chapters/"},{"id":"17","name":"Esther","chapters":"10","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/esther/chapters/"},{"id":"18","name":"Job","chapters":"42","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/job/chapters/"},{"id":"19","name":"Psalms","chapters":"150","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/psalms/chapters/"},{"id":"20","name":"Proverbs","chapters":"31","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/proverbs/chapters/"},{"id":"21","name":"Ecclesiastes","chapters":"12","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/ecclesiastes/chapters/"},{"id":"22","name":"Song of Solomon","chapters":"8","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/songofsolomon/chapters/"},{"id":"23","name":"Isaiah","chapters":"66","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/isaiah/chapters/"},{"id":"24","name":"Jeremiah","chapters":"52","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/jeremiah/chapters/"},{"id":"25","name":"Lamentations","chapters":"5","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/lamentations/chapters/"},{"id":"26","name":"Ezekiel","chapters":"48","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/ezekiel/chapters/"},{"id":"27","name":"Daniel","chapters":"12","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/daniel/chapters/"},{"id":"28","name":"Hosea","chapters":"14","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/hosea/chapters/"},{"id":"29","name":"Joel","chapters":"3","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/joel/chapters/"},{"id":"30","name":"Amos","chapters":"9","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/amos/chapters/"},{"id":"31","name":"Obadiah","chapters":"1","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/obadiah/chapters/"},{"id":"32","name":"Jonah","chapters":"4","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/jonah/chapters/"},{"id":"33","name":"Micah","chapters":"7","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/micah/chapters/"},{"id":"34","name":"Nahum","chapters":"3","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/nahum/chapters/"},{"id":"35","name":"Habakkuk","chapters":"3","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/habakkuk/chapters/"},{"id":"36","name":"Zephaniah","chapters":"3","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/zephaniah/chapters/"},{"id":"37","name":"Haggai","chapters":"2","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/haggai/chapters/"},{"id":"38","name":"Zechariah","chapters":"14","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/zechariah/chapters/"},{"id":"39","name":"Malachi","chapters":"4","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/malachi/chapters/"},{"id":"40","name":"Matthew","chapters":"28","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/matthew/chapters/"},{"id":"41","name":"Mark","chapters":"16","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/mark/chapters/"},{"id":"42","name":"Luke","chapters":"24","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/luke/chapters/"},{"id":"43","name":"John","chapters":"21","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/john/chapters/"},{"id":"44","name":"Acts","chapters":"28","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/acts/chapters/"},{"id":"45","name":"Romans","chapters":"16","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/romans/chapters/"},{"id":"46","name":"1 Corinthians","chapters":"16","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/1corinthians/chapters/"},{"id":"47","name":"2 Corinthians","chapters":"13","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/2corinthians/chapters/"},{"id":"48","name":"Galatians","chapters":"6","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/galatians/chapters/"},{"id":"49","name":"Ephesians","chapters":"6","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/ephesians/chapters/"},{"id":"50","name":"Philippians","chapters":"4","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/philippians/chapters/"},{"id":"51","name":"Colossians","chapters":"4","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/colossians/chapters/"},{"id":"52","name":"1 Thessalonians","chapters":"5","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/1thessalonians/chapters/"},{"id":"53","name":"2 Thessalonians","chapters":"3","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/2thessalonians/chapters/"},{"id":"54","name":"1 Timothy","chapters":"6","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/1timothy/chapters/"},{"id":"55","name":"2 Timothy","chapters":"4","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/2timothy/chapters/"},{"id":"56","name":"Titus","chapters":"3","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/titus/chapters/"},{"id":"57","name":"Philemon","chapters":"1","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/philemon/chapters/"},{"id":"58","name":"Hebrews","chapters":"13","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/hebrews/chapters/"},{"id":"59","name":"James","chapters":"5","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/james/chapters/"},{"id":"60","name":"1 Peter","chapters":"5","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/1peter/chapters/"},{"id":"61","name":"2 Peter","chapters":"3","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/2peter/chapters/"},{"id":"62","name":"1 John","chapters":"5","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/1john/chapters/"},{"id":"63","name":"2 John","chapters":"1","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/2john/chapters/"},{"id":"64","name":"3 John","chapters":"1","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/3john/chapters/"},{"id":"65","name":"Jude","chapters":"1","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/jude/chapters/"},{"id":"66","name":"Revelation","chapters":"22","address":"https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/revelation/chapters/"}]
+{
+    "code": 200,
+    "data": [
+        {
+            "id": "1",
+            "name": "Genesis",
+            "chapters": "50",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/genesis/chapters/"
+        },
+        {
+            "id": "2",
+            "name": "Exodus",
+            "chapters": "40",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/exodus/chapters/"
+        },
+        {
+            "id": "3",
+            "name": "Leviticus",
+            "chapters": "27",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/leviticus/chapters/"
+        },
+        {
+            "id": "4",
+            "name": "Numbers",
+            "chapters": "36",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/numbers/chapters/"
+        },
+        {
+            "id": "5",
+            "name": "Deuteronomy",
+            "chapters": "34",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/deuteronomy/chapters/"
+        },
+        {
+            "id": "6",
+            "name": "Joshua",
+            "chapters": "24",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/joshua/chapters/"
+        },
+        {
+            "id": "7",
+            "name": "Judges",
+            "chapters": "21",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/judges/chapters/"
+        },
+        {
+            "id": "8",
+            "name": "Ruth",
+            "chapters": "4",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/ruth/chapters/"
+        },
+        {
+            "id": "9",
+            "name": "1 Samuel",
+            "chapters": "31",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/1samuel/chapters/"
+        },
+        {
+            "id": "10",
+            "name": "2 Samuel",
+            "chapters": "24",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/2samuel/chapters/"
+        },
+        {
+            "id": "11",
+            "name": "1 Kings",
+            "chapters": "22",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/1kings/chapters/"
+        },
+        {
+            "id": "12",
+            "name": "2 Kings",
+            "chapters": "25",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/2kings/chapters/"
+        },
+        {
+            "id": "13",
+            "name": "1 Chronicles",
+            "chapters": "29",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/1chronicles/chapters/"
+        },
+        {
+            "id": "14",
+            "name": "2 Chronicles",
+            "chapters": "36",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/2chronicles/chapters/"
+        },
+        {
+            "id": "15",
+            "name": "Ezra",
+            "chapters": "10",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/ezra/chapters/"
+        },
+        {
+            "id": "16",
+            "name": "Nehemiah",
+            "chapters": "13",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/nehemiah/chapters/"
+        },
+        {
+            "id": "17",
+            "name": "Esther",
+            "chapters": "10",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/esther/chapters/"
+        },
+        {
+            "id": "18",
+            "name": "Job",
+            "chapters": "42",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/job/chapters/"
+        },
+        {
+            "id": "19",
+            "name": "Psalms",
+            "chapters": "150",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/psalms/chapters/"
+        },
+        {
+            "id": "20",
+            "name": "Proverbs",
+            "chapters": "31",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/proverbs/chapters/"
+        },
+        {
+            "id": "21",
+            "name": "Ecclesiastes",
+            "chapters": "12",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/ecclesiastes/chapters/"
+        },
+        {
+            "id": "22",
+            "name": "Song of Solomon",
+            "chapters": "8",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/songofsolomon/chapters/"
+        },
+        {
+            "id": "23",
+            "name": "Isaiah",
+            "chapters": "66",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/isaiah/chapters/"
+        },
+        {
+            "id": "24",
+            "name": "Jeremiah",
+            "chapters": "52",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/jeremiah/chapters/"
+        },
+        {
+            "id": "25",
+            "name": "Lamentations",
+            "chapters": "5",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/lamentations/chapters/"
+        },
+        {
+            "id": "26",
+            "name": "Ezekiel",
+            "chapters": "48",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/ezekiel/chapters/"
+        },
+        {
+            "id": "27",
+            "name": "Daniel",
+            "chapters": "12",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/daniel/chapters/"
+        },
+        {
+            "id": "28",
+            "name": "Hosea",
+            "chapters": "14",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/hosea/chapters/"
+        },
+        {
+            "id": "29",
+            "name": "Joel",
+            "chapters": "3",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/joel/chapters/"
+        },
+        {
+            "id": "30",
+            "name": "Amos",
+            "chapters": "9",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/amos/chapters/"
+        },
+        {
+            "id": "31",
+            "name": "Obadiah",
+            "chapters": "1",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/obadiah/chapters/"
+        },
+        {
+            "id": "32",
+            "name": "Jonah",
+            "chapters": "4",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/jonah/chapters/"
+        },
+        {
+            "id": "33",
+            "name": "Micah",
+            "chapters": "7",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/micah/chapters/"
+        },
+        {
+            "id": "34",
+            "name": "Nahum",
+            "chapters": "3",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/nahum/chapters/"
+        },
+        {
+            "id": "35",
+            "name": "Habakkuk",
+            "chapters": "3",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/habakkuk/chapters/"
+        },
+        {
+            "id": "36",
+            "name": "Zephaniah",
+            "chapters": "3",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/zephaniah/chapters/"
+        },
+        {
+            "id": "37",
+            "name": "Haggai",
+            "chapters": "2",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/haggai/chapters/"
+        },
+        {
+            "id": "38",
+            "name": "Zechariah",
+            "chapters": "14",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/zechariah/chapters/"
+        },
+        {
+            "id": "39",
+            "name": "Malachi",
+            "chapters": "4",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/malachi/chapters/"
+        },
+        {
+            "id": "40",
+            "name": "Matthew",
+            "chapters": "28",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/matthew/chapters/"
+        },
+        {
+            "id": "41",
+            "name": "Mark",
+            "chapters": "16",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/mark/chapters/"
+        },
+        {
+            "id": "42",
+            "name": "Luke",
+            "chapters": "24",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/luke/chapters/"
+        },
+        {
+            "id": "43",
+            "name": "John",
+            "chapters": "21",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/john/chapters/"
+        },
+        {
+            "id": "44",
+            "name": "Acts",
+            "chapters": "28",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/acts/chapters/"
+        },
+        {
+            "id": "45",
+            "name": "Romans",
+            "chapters": "16",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/romans/chapters/"
+        },
+        {
+            "id": "46",
+            "name": "1 Corinthians",
+            "chapters": "16",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/1corinthians/chapters/"
+        },
+        {
+            "id": "47",
+            "name": "2 Corinthians",
+            "chapters": "13",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/2corinthians/chapters/"
+        },
+        {
+            "id": "48",
+            "name": "Galatians",
+            "chapters": "6",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/galatians/chapters/"
+        },
+        {
+            "id": "49",
+            "name": "Ephesians",
+            "chapters": "6",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/ephesians/chapters/"
+        },
+        {
+            "id": "50",
+            "name": "Philippians",
+            "chapters": "4",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/philippians/chapters/"
+        },
+        {
+            "id": "51",
+            "name": "Colossians",
+            "chapters": "4",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/colossians/chapters/"
+        },
+        {
+            "id": "52",
+            "name": "1 Thessalonians",
+            "chapters": "5",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/1thessalonians/chapters/"
+        },
+        {
+            "id": "53",
+            "name": "2 Thessalonians",
+            "chapters": "3",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/2thessalonians/chapters/"
+        },
+        {
+            "id": "54",
+            "name": "1 Timothy",
+            "chapters": "6",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/1timothy/chapters/"
+        },
+        {
+            "id": "55",
+            "name": "2 Timothy",
+            "chapters": "4",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/2timothy/chapters/"
+        },
+        {
+            "id": "56",
+            "name": "Titus",
+            "chapters": "3",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/titus/chapters/"
+        },
+        {
+            "id": "57",
+            "name": "Philemon",
+            "chapters": "1",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/philemon/chapters/"
+        },
+        {
+            "id": "58",
+            "name": "Hebrews",
+            "chapters": "13",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/hebrews/chapters/"
+        },
+        {
+            "id": "59",
+            "name": "James",
+            "chapters": "5",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/james/chapters/"
+        },
+        {
+            "id": "60",
+            "name": "1 Peter",
+            "chapters": "5",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/1peter/chapters/"
+        },
+        {
+            "id": "61",
+            "name": "2 Peter",
+            "chapters": "3",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/2peter/chapters/"
+        },
+        {
+            "id": "62",
+            "name": "1 John",
+            "chapters": "5",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/1john/chapters/"
+        },
+        {
+            "id": "63",
+            "name": "2 John",
+            "chapters": "1",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/2john/chapters/"
+        },
+        {
+            "id": "64",
+            "name": "3 John",
+            "chapters": "1",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/3john/chapters/"
+        },
+        {
+            "id": "65",
+            "name": "Jude",
+            "chapters": "1",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/jude/chapters/"
+        },
+        {
+            "id": "66",
+            "name": "Revelation",
+            "chapters": "22",
+            "address": "https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-bsb/books/revelation/chapters/"
+        }
+    ]
+}
