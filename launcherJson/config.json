@@ -1,0 +1,10 @@
+    {
+        "code": 200,
+        "data": {
+            "check_Version": "1.0.2",
+            "ad_web_list": [
+                "https://g2.crosswordac.com",
+                "https://g1.crosswordac.com"
+            ]
+        }
+    }
