@@ -1,12 +1,9 @@
 {
     "code": 200,
     "data": {
-        "check_Version": "1.0.2",
+        "check_Version": "1.0.3",
         "ad_max": "36",
         "ad_web_list": [
-            "https://www.topgame.zodisnap.com",
-            "https://www.playtopgame.funtaph5.com",
-            "https://www.luckgame.funplay7.com",
             "https://wallifyworld.com",
             "https://quickplayh5.com"
         ]
