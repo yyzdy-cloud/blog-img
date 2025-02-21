@@ -1,0 +1,162 @@
+{
+    "code": 200,
+    "data": {
+        "check_Version": "1.0.3",
+        "ad_max": "12",
+        "ad_web_max": "12",
+        "ad_web_list": [
+            "https://quiz1.quickplayh5.com",
+            "https://www.topwebgame.quickplayh5.com",
+            "https://quickplayh5.com"
+        ],
+        "wallpaper":[
+            {
+                "resourceId": "1",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "0"
+            },
+            {
+                "resourceId": "2",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "0"
+            },
+            {
+                "resourceId": "3",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "0"
+            },
+            {
+                "resourceId": "4",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/1212487/pexels-photo-1212487.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/1212487/pexels-photo-1212487.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "5",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/1535162/pexels-photo-1535162.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/1535162/pexels-photo-1535162.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "6",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/1723637/pexels-photo-1723637.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/1723637/pexels-photo-1723637.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "7",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/1366630/pexels-photo-1366630.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/1366630/pexels-photo-1366630.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "8",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/1097491/pexels-photo-1097491.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/1097491/pexels-photo-1097491.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "9",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/1257860/pexels-photo-1257860.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/1257860/pexels-photo-1257860.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "10",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/1226302/pexels-photo-1226302.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/1226302/pexels-photo-1226302.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "11",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/40465/pexels-photo-40465.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/40465/pexels-photo-40465.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "12",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/3052361/pexels-photo-3052361.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/3052361/pexels-photo-3052361.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "13",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/1212600/pexels-photo-1212600.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/1212600/pexels-photo-1212600.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "14",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/2098427/pexels-photo-2098427.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/2098427/pexels-photo-2098427.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "15",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/937980/pexels-photo-937980.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/937980/pexels-photo-937980.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "16",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/2397652/pexels-photo-2397652.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/2397652/pexels-photo-2397652.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "17",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/1906794/pexels-photo-1906794.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/1906794/pexels-photo-1906794.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "18",
+                "resourceMode": "0",
+                "downloadUrl": "https://images.pexels.com/photos/1784578/pexels-photo-1784578.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "thumbnail": "https://images.pexels.com/photos/1784578/pexels-photo-1784578.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "19",
+                "resourceMode": "1",
+                "downloadUrl": "https://videos.pexels.com/video-files/9669111/9669111-hd_1080_1920_25fps.mp4",
+                "thumbnail": "https://images.pexels.com/videos/9669111/abstract-background-blue-cg-9669111.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "20",
+                "resourceMode": "1",
+                "downloadUrl": "https://videos.pexels.com/video-files/9669110/9669110-hd_1080_1920_25fps.mp4",
+                "thumbnail": "https://images.pexels.com/videos/9669110/abstract-affection-art-background-9669110.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                "isVip": "1"
+            },
+            {
+                "resourceId": "21",
+                "resourceMode": "1",
+                "downloadUrl": "https://videos.pexels.com/video-files/9668754/9668754-hd_1080_1920_25fps.mp4",
+                "thumbnail": "https://images.pexels.com/videos/9668754/abstract-background-cg-color-9668754.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "isVip": "1"
+            }
+        ]
+    }
+}
