@@ -13,6 +13,18 @@
         "posIdExitWeatherInsertAdLimitTimes": "6",
         "posIdExitFragmentInsertAdLimitTimes": "6",
         "posIdExitMessageInsertAdLimitTimes": "6",
-        "posIdOpenAppInsertAdLimitTimes": "6"
+        "posIdOpenAppInsertAdLimitTimes": "6",
+        "posIdSplashInterstitialInterval": "600",
+        "posIdWallpaperInsertAdInterval": "600",
+        "posIdExitWallpaperDetailInsertAdInterval": "600",
+        "posIdExitWallpaperActivityInsertAdInterval": "600",
+        "posIdScanVirusInsertAdInterval": "600",
+        "posIdExitScanVirusInsertAdInterval": "600",
+        "posIdScanWifiInsertAdInterval": "600",
+        "posIdExitScanWifiInsertAdInterval": "600",
+        "posIdExitWeatherInsertAdInterval": "600",
+        "posIdExitFragmentInsertAdInterval": "600",
+        "posIdExitMessageInsertAdInterval": "600",
+        "posIdOpenAppInsertAdInterval": "600"
     }
 }
