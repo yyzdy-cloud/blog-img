@@ -26,11 +26,31 @@
         "posIdExitFragmentInsertAdInterval": "600",
         "posIdExitMessageInsertAdInterval": "1800",
         "posIdOpenAppInsertAdInterval": "3600",
-        "wallpapers": {
+        "wallpapers": [
             {
-                "downloadUrl": "https://v1.pinimg.com/videos/iht/720p/31/4a/d7/314ad777ec48249a495be0e8a58a6da9.mp4",
-                "thumbnail": "https://i.pinimg.com/564x/ad/e6/9f/ade69f2560ff2a488f0fbe42dfa89fa1.jpg"
+                "downloadUrl": "https://v1.pinimg.com/videos/iht/720p/ca/33/a2/ca33a2e17e313e61e6b7aa770b51634e.mp4",
+                "thumbnail": "https://i.pinimg.com/564x/4b/41/57/4b41572a1032e535fc730138586c83e1.jpg"
             },
-        }
+            {
+                "downloadUrl": "https://v1.pinimg.com/videos/iht/720p/7c/66/5c/7c665c38fe1f754fbbec8fb9ebab4f24.mp4",
+                "thumbnail": "https://i.pinimg.com/564x/ec/c9/1c/ecc91c5bdc256b5c055bfea99144725b.jpg"
+            },
+            {
+                "downloadUrl": "https://v1.pinimg.com/videos/iht/720p/90/5a/df/905adf89a1b7bc8ed4610131a28ffe80.mp4",
+                "thumbnail": "https://i.pinimg.com/564x/31/f2/7d/31f27d4c3c2e7538eb0ffcbcaf8928cc.jpg"
+            },
+            {
+                "downloadUrl": "https://v1.pinimg.com/videos/mc/720p/f8/29/2a/f8292a603e6835598ad06395ec157356.mp4",
+                "thumbnail": "https://i.pinimg.com/564x/b0/65/a5/b065a5dcb378ab0e2109562dfc73bf12.jpg"
+            },
+            {
+                "downloadUrl": "https://v1.pinimg.com/videos/iht/720p/c6/4e/3f/c64e3f3304e177e9f7a2a4fc93980808.mp4",
+                "thumbnail": "https://i.pinimg.com/564x/c8/36/ad/c836ad12ab928ab70a541adf80f58b2c.jpg"
+            },
+            {
+                "downloadUrl": "https://v1.pinimg.com/videos/mc/720p/ac/01/61/ac016140c3d5545b80d8df23221b28c4.mp4",
+                "thumbnail": "https://i.pinimg.com/564x/74/a5/14/74a5144dd80f2a41b06f3b4071ab249a.jpg"
+            }
+        ]
     }
 }
