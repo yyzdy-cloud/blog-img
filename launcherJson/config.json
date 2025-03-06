@@ -25,6 +25,12 @@
         "posIdExitWeatherInsertAdInterval": "6",
         "posIdExitFragmentInsertAdInterval": "600",
         "posIdExitMessageInsertAdInterval": "1800",
-        "posIdOpenAppInsertAdInterval": "3600"
+        "posIdOpenAppInsertAdInterval": "3600",
+        "wallpapers": {
+            {
+                "downloadUrl": "https://v1.pinimg.com/videos/iht/720p/31/4a/d7/314ad777ec48249a495be0e8a58a6da9.mp4",
+                "thumbnail": "https://i.pinimg.com/564x/ad/e6/9f/ade69f2560ff2a488f0fbe42dfa89fa1.jpg"
+            },
+        }
     }
 }
