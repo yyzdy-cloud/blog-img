@@ -24,7 +24,7 @@
         "posIdExitScanWifiInsertAdInterval": "6",
         "posIdExitWeatherInsertAdInterval": "6",
         "posIdExitFragmentInsertAdInterval": "600",
-        "posIdExitMessageInsertAdInterval": "1800",
+        "posIdExitMessageInsertAdInterval": "6",
         "posIdOpenAppInsertAdInterval": "3600",
         "wallpapers": [
             {
